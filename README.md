@@ -8,7 +8,9 @@ If you have any issue, report it, and if you manage to fix it, better!
 The whole idea behind this is to use it alongside GTK 4 based apps or themes, those two themes are such a blast! But is a shame that GTK4.0 Support is missing, so here is why I decided to do this, hope you like it!
 
 # HOW TO INSTALL IT!!
-Do a `git clone https://github.com/ViviNoSmol/TWM-GTK4.git` then do `cd TWM-GTK4`
-Move the `gtk.css` and `gtk-dark.css` to `/home/$USER/.config/gtk-4.0/` folder 
-(`mv gtk.css /home/$USER/.config/gtk-4.0` & `mv gtk-dark.css /home/$USER/.config/gtk-4.0`) 
+* Do a `git clone https://github.com/ViviNoSmol/TWM-GTK4.git` then
+* `cd TWM-GTK4`
+* Move the `gtk.css` and `gtk-dark.css` to `/home/$USER/.config/gtk-4.0/` with this two commands:
+* `mv gtk.css /home/$USER/.config/gtk-4.0`
+* `mv gtk-dark.css /home/$USER/.config/gtk-4.0`
 # If you have a GTK4 theme installed do a backup before!
