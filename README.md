@@ -15,4 +15,5 @@ The whole idea behind this is to use it alongside GTK 4 based apps, Us a shame t
 * Move the `gtk.css` and `gtk-dark.css` to `/home/$USER/.config/gtk-4.0/` with this two commands:
 * `mv gtk.css /home/$USER/.config/gtk-4.0`
 * `mv gtk-dark.css /home/$USER/.config/gtk-4.0`
+* If you haven't installed any GTK3 TWM based theme, then do this `ln -sf ~/.config/gtk-4.0/gtk.css ~/.config/gtk-3.0/gtk.css`
 # If you have a GTK4 theme installed do a backup before!
